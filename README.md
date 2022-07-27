@@ -32,7 +32,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maksim-ivanovskiy&show_icons=true&locale=en&layout=compact" alt="maksim-ivanovskiy" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maksim-ivanovskiy&show_icons=true&locale=en" alt="maksim-ivanovskiy" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maksim-ivanovskiy&" alt="maksim-ivanovskiy" /></p>
 
