@@ -9,17 +9,15 @@
 
 - 🔭 I’m currently working on [diet plan project](https://github.com/Maksim-Ivanovskiy/foodProject)
 
-- 🌱 I’m currently learning **Advanced JavaScript and React**
+- 🌱 I’m currently learning: **Advanced JavaScript and React**
 
-- 🤝 I’m looking for help with **my education process**
+- 🤝 I’m always looking for help and feedback with **my educational process**
 
-- 📝 I regularly write articles (Russian) on [https://twitter.com/kompotklubnika?t=r5CTk40Bck5h3V6QdliuXA&s=08](https://twitter.com/kompotklubnika?t=r5CTk40Bck5h3V6QdliuXA&s=08)
+- 📫 How to reach me: **ivanovskiy.maxim@mail.ru**
 
-- 📫 How to reach me **ivanovskiy.maxim@mail.ru**
+- 📄 Know about my experiences: [https://www.linkedin.com/in/maksim-ivanovskii-59935a156/](https://www.linkedin.com/in/maksim-ivanovskii-59935a156/)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/maksim-ivanovskii-59935a156/](https://www.linkedin.com/in/maksim-ivanovskii-59935a156/)
-
-- ⚡ Fun fact **I'm a traveler. Love sports and a big fan of Arsenal FC**
+- ⚡ Fun fact: **I'm a traveler. Love sports and a big fan of Arsenal FC**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
