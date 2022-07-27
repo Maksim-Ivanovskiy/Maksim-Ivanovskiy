@@ -35,3 +35,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maksim-ivanovskiy&show_icons=true&locale=en" alt="maksim-ivanovskiy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maksim-ivanovskiy&" alt="maksim-ivanovskiy" /></p>
+
+<img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=maksim-ivanovskiy&bg_color=FFF&color=000&line=0969da&point=000&hide_border=true&hide_title=true" />
