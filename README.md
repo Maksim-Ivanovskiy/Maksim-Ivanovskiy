@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning: **Advanced JavaScript and React**
 
-- 🤝 I’m always looking for help and feedback with **my educational process**
+- 🤝 I’m always looking for help and feedback with **my learning process**
 
 - 📫 How to reach me: **ivanovskiy.maxim@mail.ru**
 
