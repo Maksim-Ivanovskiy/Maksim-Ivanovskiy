@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences: [https://www.linkedin.com/in/maksim-ivanovskii-59935a156/](https://www.linkedin.com/in/maksim-ivanovskii-59935a156/)
 
-- ⚡ Fun fact: **I'm big fan of Denmark and Danish culture**
+- ⚡ Fun fact: **I'm big fan of  and Danish culture**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
