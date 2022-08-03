@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/kompotklubnika" target="blank"><img src="https://img.shields.io/twitter/follow/kompotklubnika?logo=twitter&style=for-the-badge" alt="kompotklubnika" /></a> </p>
 
-- 🔭 I’m currently working on [diet plan project](https://github.com/Maksim-Ivanovskiy/foodProject)
+- 🔭 I’m currently working on [art project](https://github.com/Maksim-Ivanovskiy/art_project)
 
 - 🌱 I’m currently learning: **Advanced JavaScript and React**
 
