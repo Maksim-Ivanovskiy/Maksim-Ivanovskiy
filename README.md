@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [loan project](https://github.com/Maksim-Ivanovskiy/loan_project)
 
-- 🌱 I’m currently learning: **Advanced JavaScript and React**
+- 🌱 I’m currently learning: **Advanced JavaScript, React and Redux**
 
 - 🤝 I’m always looking for help and feedback with **my learning process**
 
