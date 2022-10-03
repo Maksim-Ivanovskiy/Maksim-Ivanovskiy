@@ -15,7 +15,7 @@
 
 - 📫 How to reach me: **ivanovskiy.maxim@mail.ru**
 
-- 📄 Know about my experiences: https://www.linkedin.com/in/maksim-ivanovskiy/](https://www.linkedin.com/in/maksim-ivanovskiy/)
+- 📄 Know about my experiences: [https://www.linkedin.com/in/maksim-ivanovskiy/](https://www.linkedin.com/in/maksim-ivanovskiy/)
 
 - ⚡ Fun fact: **I'm a fan of Denmark and Danish culture**
 
