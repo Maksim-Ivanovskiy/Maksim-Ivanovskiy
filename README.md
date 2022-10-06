@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [clothing-shop project](https://github.com/Maksim-Ivanovskiy/clothing-shop)
 
-- 🌱 I’m currently learning: **Advanced JavaScript + React and Redux**
+- 🌱 I’m currently learning: **Redux/TypeScript**
 
 - 🤝 I’m always looking for help and feedback with **my learning process**
 
